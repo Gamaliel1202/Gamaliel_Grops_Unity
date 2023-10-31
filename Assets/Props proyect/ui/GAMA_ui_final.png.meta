@@ -215,7 +215,7 @@ TextureImporter:
         width: 430
         height: 88
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,7 +236,7 @@ TextureImporter:
         width: 427
         height: 113
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 17}
       outline: []
       physicsShape: []
@@ -257,7 +257,7 @@ TextureImporter:
         width: 420
         height: 101
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -265,27 +265,6 @@ TextureImporter:
       bones: []
       spriteID: b1272b6132ab483448ec36ce3572f091
       internalID: -604256261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GAMA_ui_final_7
-      rect:
-        serializedVersion: 2
-        x: 927
-        y: 288
-        width: 391
-        height: 145
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b094aba9680cfdf4481593d464f31b86
-      internalID: -1960152069
       vertices: []
       indices: 
       edges: []
@@ -308,7 +287,6 @@ TextureImporter:
       GAMA_ui_final_4: 1101813781
       GAMA_ui_final_5: 1518324219
       GAMA_ui_final_6: -604256261
-      GAMA_ui_final_7: -1960152069
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
